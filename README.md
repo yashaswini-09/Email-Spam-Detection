@@ -1,4 +1,5 @@
-# 📧 Spam Detection Web App (Email/SMS)
+# 📧 Email-Spam-Detection
+
 
 An **end-to-end machine learning project** that detects whether an Email or SMS message is **Spam or Not Spam**.  
 Built with **Python, Streamlit, NLP techniques, and Machine Learning**, and ready for deployment on **Heroku** or **Streamlit Cloud**.
@@ -43,4 +44,5 @@ This project provides a simple and interactive **Spam Classifier Web App** where
 ---
 
 Thankyou for exploring!!
+
 
