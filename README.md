@@ -8,12 +8,11 @@ Features:
 ✔ Real-time Spam/Not Spam detection
 ✔ Clean and modern UI with Streamlit
 ✔ Advanced text preprocessing:
-
--Lowercasing
--Tokenization
--Stopword Removal
--Punctuation Removal
--Stemming using Porter Stemmer
+  -Lowercasing
+  -Tokenization
+  -Stopword Removal
+  -Punctuation Removal
+  -Stemming using Porter Stemmer
 
 Displays:
 ✔Transformed text
@@ -62,4 +61,5 @@ How to Run Locally:
   streamlit run app.py
 
 
-Thankyou for exploring Email Spam Detection
+Thankyou for exploring the Project!!
+
